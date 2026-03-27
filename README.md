@@ -2,7 +2,7 @@
 
 <p align="center">
   Full-Stack Software Engineer · Bangkok, Thailand<br/>
-  React · Next.js · TypeScript · Node.js · PostgreSQL · Docker
+  React · Next.js · TypeScript · Node.js · PostgreSQL · Docker · CI/CD
 </p>
 
 <p align="center">
